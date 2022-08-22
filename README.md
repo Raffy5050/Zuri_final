@@ -5,5 +5,5 @@
 ---
  ### live demo 
   ---
- [live link](https://replit.com/@Raffy5050/zurriii#index.html)
+ Click here for the [live link](https://replit.com/@Raffy5050/zurriii#index.html)
  
